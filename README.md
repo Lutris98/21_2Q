@@ -17,5 +17,5 @@
 Type|Competition|Link
 -|-|-
 분류|CreditDefaultRisk|https://www.kaggle.com/c/home-credit-default-risk
-회귀|
+회귀|Benz|https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/overview
 시계열|Walmart|https://www.kaggle.com/c/m5-forecasting-accuracy/overview
