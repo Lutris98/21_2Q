@@ -12,8 +12,7 @@
 
 # 조바심은 금물! 딱 하나씩만
 1Q엔 기초적인 competition을 해봤으니
-2Q엔 회귀/분류/군집화/시계열별로 현재진행중인 competition 하나씩 나가보기 
-
+2Q엔 심화적인 competition 딱3개
 Type|Competition|Link
 -|-|-
 분류|CreditDefaultRisk|https://www.kaggle.com/c/home-credit-default-risk
