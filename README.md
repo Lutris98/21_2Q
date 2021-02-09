@@ -10,11 +10,10 @@
 만약 끝나면 웹프로그래밍까지, 아니면 학기중에 해서<br> 
 겨울방학때 트레이딩봇한번 만들어보자.<br>
 
-# 조바심은 금물! 딱 하나씩만
+# 조바심은 금물! 딱 동메달 2개만
 1Q엔 기초적인 competition을 해봤으니
-2Q엔 심화적인 competition 딱3개
+2Q엔 심화적인 competition 딱2개후 현재진행형 보기
 Type|Competition|Link
 -|-|-
 분류|CreditDefaultRisk|https://www.kaggle.com/c/home-credit-default-risk
-회귀|Benz|https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/overview
-시계열|Walmart|https://www.kaggle.com/c/m5-forecasting-accuracy/overview
+회귀|Walmart|https://www.kaggle.com/c/m5-forecasting-accuracy/overview
