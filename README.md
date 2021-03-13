@@ -22,4 +22,4 @@
 Type|Competition|Link
 -|-|-
 분류|CreditDefaultRisk|https://www.kaggle.com/c/home-credit-default-risk
-|Walmart|https://www.kaggle.com/c/m5-forecasting-accuracy/overview
+시계열|Walmart|https://www.kaggle.com/c/m5-forecasting-accuracy/overview
